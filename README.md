@@ -1,0 +1,2 @@
+# Generative-Al-Based-Meeting-Summarizer-Task-Management-Assist
+The Generative AI-Based Meeting Summarizer &amp; Task Management Assistant is an intelligent application designed to simplify the process of managing meetings and follow-up tasks. The system uses Generative AI and Natural Language Processing (NLP) to analyze meeting audio or transcripts and automatically generate meaningful, concise summaries.
